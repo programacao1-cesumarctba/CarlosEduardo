@@ -3,7 +3,7 @@ package com.centuri123.atividades;
 import java.util.Scanner;
 
 public class Desafio1 {
-	public Integer numero;
+	private Integer numero;
 	
 	protected boolean verifParImpar(){
 		
