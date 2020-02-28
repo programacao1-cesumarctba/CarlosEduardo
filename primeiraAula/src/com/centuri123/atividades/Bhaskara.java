@@ -1,4 +1,4 @@
-package com.centuri123.atividade;
+package com.centuri123.atividades;
 
 public class Bhaskara {
 	private Integer valorA;
