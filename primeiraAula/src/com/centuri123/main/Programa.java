@@ -25,6 +25,11 @@ public class Programa {
 			
 			Desafio4 desafio4 = new Desafio4();
 			desafio4.exibeTab();
+		------------------------------------------	
+			Atividade 5
+			
+			Bhaskara bhaskara = new Bhaskara(2,-10,8);
+			bhaskara.calculaBhask();
 		*/
 	}
 
